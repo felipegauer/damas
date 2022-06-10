@@ -1,10 +1,11 @@
-
 /**
- * Escreva uma descrição da classe Checkers aqui.
+ * Jogo de damas para dois jogadores.
  * 
- * @author (seu nome) 
+ * @author felipe.gattelli@edu.pucrs.br
  * @version (um número da versão ou uma data)
  */
 public class Checkers{
-  
+  public static void main(String[] args){
+      String board [][]=new String [8][8];
+  }
 }
